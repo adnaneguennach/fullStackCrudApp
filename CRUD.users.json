@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "670d4ef7f043fd78c7b0056a"
+  },
+  "name": "Adnane1",
+  "email": "test1@gmail.com",
+  "address": "Morocco1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670d576621a3ebb202c942fa"
+  },
+  "name": "Othmane",
+  "email": "Othmane@gmail.com",
+  "address": "Morocco",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670d60d821a3ebb202c942ff"
+  },
+  "name": "test",
+  "email": "test@hotmail.com",
+  "address": "test",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670d6db002f2b128d7c0f836"
+  },
+  "name": "ayoub",
+  "email": "ayoub@gmail.com",
+  "address": "ayoub@gmail.com",
+  "__v": 0
+}]
